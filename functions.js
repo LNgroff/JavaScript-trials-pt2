@@ -36,5 +36,5 @@ function calculateTotal(basePrice, state, tax = 0.05) {
         }
     }
     
-    return subtotal + fee
-}
+    return subtotal + fee;
+};
